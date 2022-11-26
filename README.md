@@ -9,10 +9,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  </div>
 <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=cleomaster&style=flat-square&color=blue" alt=""/>
 </div>
@@ -35,6 +32,8 @@
  About Me
  </h1>
 </div>
+  
+  <div>
 
 - :telescope: Hey there, I am Nabil Rashid. I am a student of Software Engineering. My hobbies includes penetration testing, studying crpytography (not cryptocurrency) and football.
 
@@ -42,8 +41,9 @@
 
 - :zap: Below, you can find the languages and tool that I work on, and some of my projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+<div>
+  
+  
 ---
 
 <div align="center">
