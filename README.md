@@ -35,8 +35,8 @@
   
   <div>
 
-- :telescope: Hey there, I am Nabil Rashid. I am a student of Software Engineering. My hobbies includes penetration testing, studying crpytography (not cryptocurrency) and football.
-
+- :telescope: Hey there, I am Nabil Rashid. I am a student of Software Engineering.
+  
 - :seedling: I am an experienced JavaScript and Python developer.
 
 - :zap: Below, you can find the languages and tool that I work on, and some of my projects.
