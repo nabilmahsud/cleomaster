@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -36,11 +36,11 @@
  </h1>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Hey there, I am Nabil Rashid. I am a student of Software Engineering. My hobbies includes penetration testing, studying crpytography (not cryptocurrency) and football.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am an experienced JavaScript and Python developer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Below, you can find the languages and tool that I work on, and some of my projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
