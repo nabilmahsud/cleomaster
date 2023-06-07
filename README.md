@@ -34,8 +34,6 @@
 </div>
   
   <div>
-
-- :telescope: Hey there, I am Nabil Rashid. I am a student of Software Engineering.
   
 - :seedling: I am an experienced JavaScript and Python developer.
 
